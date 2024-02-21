@@ -16,3 +16,17 @@ Word Counter is a simple tool designed to count the occurrences of each word in 
 
 <li>Core Java</li>
 <li>Swing components such as JTextArea, JButton, JLabel and JPanel among many other Swing components</li>
+
+# Usage
+
+<li>Enter or paste the text you want to analyze into the provided text area.</li>
+<li>Click the "Count Words" button to initiate the word counting process.</li>
+<li>The tool will display a list of words along with their respective frequencies.</li>
+
+# Screenshots
+
+![image](https://github.com/ArunachalamOfficial/Word-Counter/assets/160225333/a90f8de2-3ff3-4025-ad78-382698d32ade)
+
+![image](https://github.com/ArunachalamOfficial/Word-Counter/assets/160225333/9d25c886-0122-4fc4-98fc-79389266b82c)
+
+
